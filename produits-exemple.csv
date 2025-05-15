@@ -1,0 +1,4 @@
+name,description,category,price,costPrice,stockQuantity,reorderLevel,imageUrl,sku
+Chaise bois,Chaise en bois clair,Mobilier,29.90,15.00,10,2,https://img.exemple.com/1,CH001
+Table métal,Table solide noire,Mobilier,99.00,60.00,5,1,https://img.exemple.com/2,TB001
+Lampe LED,Lampe de bureau LED,Éclairage,19.50,8.00,20,3,https://img.exemple.com/3,LM001

@@ -1,2 +1,1 @@
-# stock12
-gestion des stock fifo
+12
